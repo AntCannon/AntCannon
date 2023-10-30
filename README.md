@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntCannon
-- 👀 I’m interested in alot of things but for gitHub i want to build an education operations management app.
-- 🌱 I’m currently learning sql, pyton, and aws.
-- 💞️ I’m not looking to collaborate yet, but I want to do small projects in python.
+- 👀 I’m interested in learning fullstack development.
+- 🌱 I’m currently learning by following tutorials that focus on html, css, and javascript.
+- 💞️ I’m not looking to collaborate yet, but I want to do small projects.
 
 <!---
 AntCannon/AntCannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
